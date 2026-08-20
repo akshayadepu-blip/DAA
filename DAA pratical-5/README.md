@@ -1,0 +1,3 @@
+Conclusion : 
+
+The Knapsack problem is an important optimization problem used to select the most valuable items while staying within a limited capacity. The 0/1 Knapsack algorithm uses dynamic programming to efficiently find the maximum possible value. It has many real-world applications, such as resource allocation, budgeting, cargo loading, and project selection. Overall, the Knapsack problem demonstrates how algorithmic techniques can be used to make the best possible decisions under constraints.
