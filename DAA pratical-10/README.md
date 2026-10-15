@@ -1,0 +1,1 @@
+Conclusion: Kruskal’s Algorithm is a greedy algorithm used to find the Minimum Spanning Tree (MST) of a connected, weighted, undirected graph. It selects edges in increasing order of weight without forming any cycles. In the given program, the minimum spanning tree contains 4 edges, and the total minimum cost is 16.
